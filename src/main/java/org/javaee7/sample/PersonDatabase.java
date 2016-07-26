@@ -19,7 +19,7 @@ public class PersonDatabase {
                 new Person("Leonard"), 
                 new Person("Sheldon"), 
                 new Person("Bla"), 
-                new Person("Howard"), 
+                new Person("Bleuw"), 
                 new Person("Bernadette"), 
                 new Person("Raj"), 
                 new Person("Priya"));
