@@ -15,7 +15,7 @@ public class PersonDatabase {
     @PostConstruct
     public void init() {
         persons = Arrays.asList(
-                new Person("Penny"), 
+                new Person("Paf"), 
                 new Person("Leonard"), 
                 new Person("Sheldon"), 
                 new Person("Amy"), 
