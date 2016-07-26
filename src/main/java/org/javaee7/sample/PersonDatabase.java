@@ -16,7 +16,7 @@ public class PersonDatabase {
     public void init() {
         persons = Arrays.asList(
                 new Person("Paf"), 
-                new Person("Leonard"), 
+                new Person("Pouf"), 
                 new Person("Sheldon"), 
                 new Person("Bla"), 
                 new Person("Bleuw"), 
